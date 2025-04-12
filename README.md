@@ -7,4 +7,4 @@
 ### ✅ اجرای مستقیم از GitHub:
 
 ```bash
-bash <( curl -s https://raw.githubusercontent.com/tahadevpro/sql-fixer/main/fix_sql.sh ) path/to/dump.sql
+bash <( curl -s https://raw.githubusercontent.com/tahadevpro/fix_sql/main/fix_sql.sh ) path/to/dump.sql
