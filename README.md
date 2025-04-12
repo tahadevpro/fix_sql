@@ -1,10 +1,10 @@
 # 🛠️ SQL Fixer
 
-ابزاری ساده و سریع برای اصلاح دامپ‌های MySQL ↔ MariaDB.
+A simple and fast tool to fix SQL dump files between MySQL ↔ MariaDB.
 
-## 📦 نصب سریع و اجرا
+## 📦 Quick Install & Usage
 
-### ✅ اجرای مستقیم از GitHub:
+### ✅ Run directly from GitHub:
 
 ```bash
 bash <( curl -s https://raw.githubusercontent.com/tahadevpro/fix_sql/main/fix_sql.sh ) path/to/dump.sql
